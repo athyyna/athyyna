@@ -1,7 +1,7 @@
 ## Hi there I'm Athena 👋
 
 <!--
-**athyyna/athyyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**athyyna/athyyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Senior Leader: Market Activation & GTM Strategy | Digital Advertising & AdTech Expert in JAPAC 🚀
 👋 Hello there! I'm Maria Athena Catedral Bughao, a high-impact GTM leader dedicated to driving multi-million dollar revenue growth for global tech giants like Meta and Google across Asia Pacific. With 15+ years of experience, I excel at bridging global strategy with local market nuances (JP, KR, CN, SEA).1
@@ -16,4 +16,4 @@ Senior Leader: Market Activation & GTM Strategy | Digital Advertising & AdTech E
 ** Budget optimizer** - What if AI could help us optimize our campaigns and make the most of our budgets? 
 
 📫 How to reach me: athena@bughao.com | LinkedIn
--->
+
