@@ -15,5 +15,5 @@ Senior Leader: Market Activation & GTM Strategy | Digital Advertising & AdTech E
 ** Ads visualization tool** - What ads are our competitors using and in what platforms?
 ** Budget optimizer** - What if AI could help us optimize our campaigns and make the most of our budgets? 
 
-📫 How to reach me: athena@bughao.com | LinkedIn
+📫 How to reach me: athena@bughao.com | LinkedIn https://www.linkedin.com/in/athenacatedral/
 
